@@ -87,6 +87,15 @@ body {
 .fundo-3 {
     background: url(../imagens/fundo-card-3.jpg) no-repeat;
 }
+.fundo-4 {
+    background: url(../imagens/fundo-card-9.jpg) no-repeat;
+}
+.fundo-5 {
+    background: url(../imagens/selva-fundo.jpg) no-repeat;
+}
+.fundo-6 {
+    background: url(../imagens/paisagem.png) no-repeat;
+}
 
 .cartao .informacoes {
     background-color: rgba(179, 177, 185, 0.7);
